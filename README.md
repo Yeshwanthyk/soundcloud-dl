@@ -10,8 +10,6 @@ $ soundcloud-downloader.py http://soundcloud.com/user/likes
 Requirements
 ------------
 
-Mutagen
-pip install mutagen
+Install requirements by running the following command:
 
-Requests (for downloading SoundCloud pages)
-pip install requests
+    pip install -r requirements.txt
